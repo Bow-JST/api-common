@@ -4,7 +4,6 @@ import com.zwh.common.model.entity.InterfaceInfo;
 
 /**
  * 接口服务
- * @auther zwh
  */
 public interface InnerInterfaceInfoService {
 

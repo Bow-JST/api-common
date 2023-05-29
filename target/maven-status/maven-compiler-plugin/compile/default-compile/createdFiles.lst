@@ -1,8 +1,0 @@
-com\zwh\common\model\entity\UserInterfaceInfo.class
-com\zwh\common\service\InnerUserService.class
-com\zwh\common\model\vo\UserVO.class
-com\zwh\common\model\entity\User.class
-com\zwh\common\model\entity\InterfaceInfo.class
-com\zwh\common\service\InnerUserInterfaceInfoService.class
-com\zwh\common\service\InnerInterfaceInfoService.class
-com\zwh\common\model\enums\InterfaceInfoStatusEnum.class
